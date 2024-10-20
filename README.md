@@ -1,2 +1,2 @@
-# data_analysis_py
-a fcc project
+# pythonGame
+trying the amazing spectrum of python in game development
